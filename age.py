@@ -1,5 +1,6 @@
 age = int(input("How old are you? "))
 
+"""
 if age <= 11:
     print("You are an child")
 elif age <= 13:
@@ -10,3 +11,8 @@ elif age <= 34:
     print("You are a senior man")
 else:
     print("You are an elder")
+    """
+
+
+eligible_or_not = 'Eligible' if age >= 18 else 'Not Eligible'
+print(eligible_or_not)
