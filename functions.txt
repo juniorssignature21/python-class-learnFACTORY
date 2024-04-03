@@ -1,0 +1,6 @@
+function is block of code that can be used repeatedly.
+you can pass data known as parameter into a function.
+e.g:
+def name(hi): hi is the parameter.
+when creating a function we use the def, your function name, and an empty () in python.
+
